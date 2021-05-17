@@ -25,11 +25,10 @@
     width: 80%;
     margin-top: 50px;
   }
-  .overall{
+  .overall {
     margin-left: 15vw;
   }
 }
- 
 
 @media (max-width: 1880px) {
   .site-main .about-area .about-title .paragraph > p {
@@ -43,11 +42,11 @@
     margin: 0% 10%;
   }
   .header_area .main-menu .navbar {
-    margin-left: 5%;
+    margin-left: 15%;
   }
 
   .mystory-img {
-    margin-left: -30%;
+    margin-left: -10%;
   }
   .para-mystory {
     width: 80%;
@@ -68,7 +67,44 @@
     width: 80%;
     margin-top: 50px;
   }
-  .overall{
+  .overall {
+    margin-left: 10vw;
+  }
+}
+@media (max-width: 1050px) {
+  
+  .header_area .main-menu .navbar {
+    margin-left: -8%;
+  }
+
+  .mystory-img {
+    margin-left: -70%;
+  }
+  .site-main {
+    width: 76%;
+    margin: 0% 10%;
+  }
+ 
+  .para-mystory {
+    width: 80%;
+  }
+
+  .site-main .about-area .about-title h2 > span {
+    font-size: 30px;
+    letter-spacing: 15px;
+    line-height: 50px;
+  }
+  .site-main .about-area .about-title .paragraph > p {
+    width: 150%;
+  }
+  .site-main .about-area .about-title .paragraph .name > span {
+    font-size: 20px;
+  }
+  .about-mystory-exp {
+    width: 80%;
+    margin-top: 50px;
+  }
+  .overall {
     margin-left: 10vw;
   }
 }
