@@ -117,7 +117,7 @@
   padding: 0.2rem 0;
   color: #000;
   font-family: "Circular Book", sans-serif;
-  font: normal 17px/ 25px;
+  font-size: 1.3vw;
 }
 
 .site-main .about-area .about-title .paragraph > p {
@@ -421,16 +421,15 @@ footer.footer-area .social a:hover > i {
 .video-c {
   margin-left: 13vw;
 }
-.design-guidlines1{
-  
+.design-guidlines1 {
   width: 70%;
   margin-top: 3%;
- }
- .video-p {
+}
+.video-p {
   height: 500px;
   margin-left: 7vw;
 }
- 
+
 @media (max-width: 1050px) {
   .site-main .about-area {
     padding: 2rem 5rem;
@@ -449,17 +448,15 @@ footer.footer-area .social a:hover > i {
     margin-left: 17vw;
   }
   .video-c {
-    margin-left: 10vw;
-    height: 800px;
+    margin-left: 17vw;
+    height: 600px;
   }
   .video-p {
     height: 400px;
     margin-left: 5vw;
   }
- .design-guidlines1{
-  
-  
-  width: 95%;
-  margin-top: 3%;
- }
+  .design-guidlines1 {
+    width: 95%;
+    margin-top: 3%;
+  }
 }
