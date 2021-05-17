@@ -425,6 +425,10 @@ footer.footer-area .social a:hover > i {
   width: 70%;
   margin-top: 3%;
  }
+ .video-p {
+  height: 500px;
+  margin-left: 7vw;
+}
  
 @media (max-width: 1050px) {
   .site-main .about-area {
