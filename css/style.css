@@ -444,7 +444,8 @@ footer.footer-area .social a:hover > i {
     text-align: justify;
   }
   .video {
-    margin-left: 10vw;
+    height: 800px;
+    margin-left: 17vw;
   }
   .video-c {
     margin-left: 10vw;
