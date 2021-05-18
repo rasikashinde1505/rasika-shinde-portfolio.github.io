@@ -32,6 +32,17 @@
     max-width: 90%;
     margin-left: 7vw;
   }
+  .img-fluid3 {
+    width: 70%;
+    margin-left: 21vw;
+  }
+  .img-fluid2 {
+    width: 70%;
+    margin-left: 17vw;
+  }
+  .para-h{
+    font-size : 35px;
+  }
 }
 
 @media (max-width: 1880px) {
@@ -41,7 +52,7 @@
   }
   .img-fluid1 {
     max-width: 90%;
-    margin-left: 8vw;
+    margin-left: 6vw;
   }
 }
 @media (max-width: 1600px) {
@@ -133,4 +144,7 @@
     max-width: 90%;
     margin-left: 3vw;
   }*/
+  .para-h{
+    font-size : 25px;
+  }
 }
