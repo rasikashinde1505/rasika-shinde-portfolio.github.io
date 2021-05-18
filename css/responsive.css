@@ -30,7 +30,7 @@
   }
   .img-fluid1 {
     max-width: 90%;
-    margin-left: 10vw;
+    margin-left: 7vw;
   }
 }
 
@@ -41,7 +41,7 @@
   }
   .img-fluid1 {
     max-width: 90%;
-    margin-left: 10vw;
+    margin-left: 8vw;
   }
 }
 @media (max-width: 1600px) {
@@ -80,10 +80,10 @@
   .overall {
     margin-left: 10vw;
   }
-  .img-fluid1 {
+  /*.img-fluid1 {
     max-width: 90%;
     margin-left: 3vw;
-  }
+  }*/
 }
 @media (max-width: 1050px) {
   .header_area .main-menu .navbar {
@@ -129,8 +129,8 @@
     font-family: "Circular Book", sans-serif;
     font-size: 1.6vw;
   }
-  .img-fluid1 {
+  /*.img-fluid1 {
     max-width: 90%;
     margin-left: 3vw;
-  }
+  }*/
 }
