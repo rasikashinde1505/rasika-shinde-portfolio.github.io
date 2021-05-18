@@ -35,6 +35,10 @@
     font-size: 1.5vw;
     line-height: 30px;
   }
+  .img-fluid1 {
+    max-width: 90%;
+    margin-left: 7vw;
+  }
 }
 @media (max-width: 1600px) {
   .site-main {
@@ -72,6 +76,10 @@
   .overall {
     margin-left: 10vw;
   }
+  .img-fluid1 {
+    max-width: 90%;
+    margin-left: 3vw;
+  }
 }
 @media (max-width: 1050px) {
   .header_area .main-menu .navbar {
@@ -95,7 +103,7 @@
     letter-spacing: 15px;
     line-height: 50px;
   }
-  
+
   .site-main .about-area .about-title .paragraph .name > span {
     font-size: 20px;
   }
@@ -116,6 +124,9 @@
     color: #000;
     font-family: "Circular Book", sans-serif;
     font-size: 1.6vw;
-}
- 
+  }
+  .img-fluid1 {
+    max-width: 90%;
+    margin-left: 3vw;
+  }
 }
