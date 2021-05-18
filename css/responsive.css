@@ -110,6 +110,11 @@
     margin-left: 13vw;
     margin-top: 2vw;
   }
+  .img-fluid3 {
+    width: 70%;
+    margin-left: 27vw;
+    margin-top: 2vw;
+  }
 }
 @media (max-width: 1050px) {
   .header_area .main-menu .navbar {
