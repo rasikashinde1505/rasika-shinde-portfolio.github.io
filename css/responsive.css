@@ -105,6 +105,11 @@
   .para-h{
     font-size : 30px;
   }
+  .img-fluid2 {
+    width: 70%;
+    margin-left: 13vw;
+    margin-top: 2vw;
+  }
 }
 @media (max-width: 1050px) {
   .header_area .main-menu .navbar {
@@ -156,5 +161,10 @@
   }*/
   .para-h{
     font-size : 25px;
+  }
+  .img-fluid2 {
+    width: 70%;
+    margin-left: 13vw;
+    margin-top: 2vw;
   }
 }
