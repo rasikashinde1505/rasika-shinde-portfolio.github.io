@@ -411,6 +411,9 @@
     font-family: "Circular Book", sans-serif;
     line-height: 68px;
   }
+  .a-c_layout span:nth-child(2n) {
+    padding-left: 53px;
+  }
 }
 @media (max-width: 1050px) {
   .about-mystory {
@@ -464,7 +467,7 @@
     font-family: "Circular Book", sans-serif;
     line-height: 50px;
   }
- 
+  
   
   
 }
