@@ -72,7 +72,7 @@
   }
 
   .mystory-img {
-    margin-left: -30%;
+    margin-left: -10%;
   }
   .para-mystory {
     width: 80%;
@@ -114,6 +114,11 @@
     width: 70%;
     margin-left: 17vw;
     margin-top: 2vw;
+  }
+}
+@media (max-width: 1300px) {
+  .mystory-img {
+    margin-left: -30%;
   }
 }
 @media (max-width: 1050px) {
