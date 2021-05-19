@@ -30,13 +30,7 @@
   position: absolute;
   right: 0%;
 }
-.heading-h1 {
-  -webkit-text-stroke: 0.6px black;
-  font-size: 90px;
-  display: inline-block;
-  font-family: "Circular Book", sans-serif;
-  line-height: 10px;
-}
+
 .heading-span {
   -webkit-text-stroke: 0.6px black;
   color: transparent;
@@ -356,6 +350,13 @@
     font-size: 30px;
     overflow: hidden;
   }
+  .heading-h1 {
+    -webkit-text-stroke: 0.6px black;
+    font-size: 90px;
+    display: inline-block;
+    font-family: "Circular Book", sans-serif;
+    line-height: 10px;
+  }
 }
 
 @media (max-width: 1600px) {
@@ -403,6 +404,13 @@
     font-family: "Circular Book", sans-serif;
     font-size: 25px;
   }
+  .heading-h1 {
+    -webkit-text-stroke: 0.6px black;
+    font-size: 90px;
+    display: inline-block;
+    font-family: "Circular Book", sans-serif;
+    line-height: 68px;
+  }
 }
 @media (max-width: 1050px) {
   .about-mystory {
@@ -449,6 +457,14 @@
     font-family: "Circular Book", sans-serif;
     font-size: 25px;
   }
+  .heading-h1 {
+    -webkit-text-stroke: 0.6px black;
+    font-size: 90px;
+    display: inline-block;
+    font-family: "Circular Book", sans-serif;
+    line-height: 50px;
+  }
+ 
   
   
 }
