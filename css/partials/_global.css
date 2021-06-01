@@ -74,7 +74,7 @@ button:active button:hover .btn:active,
 }
 
 .title-h1 {
-  font: normal bold 39px/ 40px var(--roboto);
+  font: normal bold 55px/ 40px var(--roboto);
 }
 
 .navbar_fixed {
@@ -83,7 +83,7 @@ button:active button:hover .btn:active,
   top: -1px;
   left: 0;
   right: 0;
-  background: #ffffff;
+  background: #000000;
   box-shadow: var(--box-shadow);
   z-index: 999;
   transition: background 1s ease;

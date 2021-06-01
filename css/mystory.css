@@ -32,7 +32,7 @@
 }
 
 .heading-span {
-  -webkit-text-stroke: 0.6px black;
+  -webkit-text-stroke: 0.6px rgb(255, 255, 255);
   color: transparent;
   font-size: 90px;
   margin-left: 0.7vw;
@@ -42,9 +42,9 @@
 .underline-magical {
   background-image: linear-gradient(
     113.1deg,
-    rgba(255, 198, 152, 0.5) 14%,
-    rgba(197, 75, 253, 0.5) 80.5%,
-    rgba(191, 53, 255, 0.5) 100.6%
+    rgba(149, 61, 231, 0.781) 14%,
+    rgba(62, 15, 77, 0.692) 80.5%,
+    rgba(59, 5, 83, 0.678) 100.6%
   );
   background-repeat: no-repeat;
   background-size: 100% 0.2em;
@@ -55,6 +55,7 @@
 .underline-magical:hover {
   background-size: 100% 88%;
 }
+
 
 /* Capability */
 
@@ -87,6 +88,7 @@
   margin: 10px 0px;
   font-size: 120px;
   margin-top: 90px;
+  color: blanchedalmond;
 }
 
 .a-hl {
@@ -162,7 +164,7 @@
   height: 100%;
 }
 .outlined {
-  -webkit-text-stroke: 0.6px black;
+  -webkit-text-stroke: 0.6px blanchedalmond;
   color: transparent;
 }
 
@@ -467,7 +469,4 @@
     font-family: "Circular Book", sans-serif;
     line-height: 50px;
   }
-  
-  
-  
 }

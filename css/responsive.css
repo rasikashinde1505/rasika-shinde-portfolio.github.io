@@ -12,6 +12,7 @@
 
   .mystory-img {
     margin-left: 10%;
+    margin-top: 25%;
   }
   .site-main .about-area .about-title .paragraph > p {
     font-size: 1.1vw;
@@ -43,8 +44,8 @@
     margin-left: 17vw;
     margin-top: 2vw;
   }
-  .para-h{
-    font-size : 30px;
+  .para-h {
+    font-size: 30px;
   }
 }
 
@@ -58,8 +59,8 @@
     margin-left: 6vw;
     margin-top: 2vw;
   }
-  .para-h{
-    font-size : 30px;
+  .para-h {
+    font-size: 30px;
   }
 }
 @media (max-width: 1600px) {
@@ -71,9 +72,6 @@
     margin-left: 15%;
   }
 
-  .mystory-img {
-    margin-left: -10%;
-  }
   .para-mystory {
     width: 80%;
   }
@@ -102,8 +100,8 @@
     max-width: 90%;
     margin-left: 3vw;
   }*/
-  .para-h{
-    font-size : 30px;
+  .para-h {
+    font-size: 30px;
   }
   .img-fluid2 {
     width: 70%;
@@ -118,7 +116,7 @@
 }
 @media (max-width: 1300px) {
   .mystory-img {
-    margin-left: -30%;
+    margin-left: 0%;
   }
 }
 @media (max-width: 1050px) {
@@ -169,14 +167,12 @@
     max-width: 90%;
     margin-left: 3vw;
   }*/
-  .para-h{
-    font-size : 25px;
+  .para-h {
+    font-size: 25px;
   }
   .img-fluid2 {
     width: 70%;
     margin-left: 13vw;
     margin-top: 2vw;
   }
-  
-  
 }

@@ -7,12 +7,15 @@
 /* import global styling */
 @import url(./partials/_global.css);
 
-.underline-magical {
+body {
+  background-color: black;
+}
+nav .underline-magical {
   background-image: linear-gradient(
     113.1deg,
-    rgba(255, 198, 152, 0.5) 14%,
-    rgba(197, 75, 253, 0.5) 80.5%,
-    rgba(191, 53, 255, 0.5) 100.6%
+    rgba(149, 61, 231, 0.781) 14%,
+    rgba(62, 15, 77, 0.692) 80.5%,
+    rgba(59, 5, 83, 0.678) 100.6%
   );
   background-repeat: no-repeat;
   background-size: 100% 0.2em;
@@ -51,7 +54,7 @@
   font: normal 500 15px/2px var(--roboto);
   text-transform: uppercase;
   padding: 1.7rem;
-  color: var(--title-color);
+  color: rgb(187, 187, 187);
 }
 
 .header_area .main-menu .navbar-nav .active a {
@@ -89,10 +92,12 @@
 
 .site-main .site-banner .site-title h1 {
   font-size: 5rem;
+  color: rgb(219, 219, 217);
 }
 
 .site-main .site-banner .site-title h4 {
   font-size: 1.2rem;
+  color: #b1afaf;
 }
 
 .site-main .site-banner .banner-image > img {
@@ -118,11 +123,12 @@
   color: #000;
   font-family: "Circular Book", sans-serif;
   font-size: 1.3vw;
+  color: rgb(128, 125, 125);
 }
 
 .site-main .about-area .about-title .paragraph > p {
   padding: 0.2rem 0;
-  color: #000;
+  color: rgba(177, 176, 176, 0.699);
   font-family: "Circular Book", sans-serif;
   text-align: justify;
   font-size: 1.5vw;
@@ -362,7 +368,6 @@
 
 footer.footer-area {
   padding: 5rem 0;
-  background: url(../img/footer-bg.png);
 }
 
 footer.footer-area .social h5 {
@@ -406,7 +411,7 @@ footer.footer-area .social a:hover > i {
   font-size: 20px;
 }
 .heading-of-project {
-  color: #fc3a52;
+  color: #fc3a51b0;
   font-size: 37px;
   font-weight: bold;
   width: 75%;
@@ -459,5 +464,4 @@ footer.footer-area .social a:hover > i {
     width: 95%;
     margin-top: 3%;
   }
-  
 }
