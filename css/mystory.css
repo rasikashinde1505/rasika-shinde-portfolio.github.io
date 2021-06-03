@@ -303,6 +303,11 @@
   color: black;
   font-family: Circular Book, sans-serif;
 }
+.exp-heading {
+  font-family: "Circular Book", sans-serif;
+  font-size: 20px;
+  color: #a12effc7;
+}
 
 @media (max-width: 2000px) {
   .about-mystory {
@@ -358,7 +363,6 @@
     font-family: "Circular Book", sans-serif;
     line-height: 10px;
   }
-  
 }
 
 @media (max-width: 1600px) {
@@ -469,6 +473,9 @@
     font-family: "Circular Book", sans-serif;
     line-height: 50px;
   }
+  .col-md-12 {
+    max-width: 99%;
+  }
 }
 
 @media (max-width: 768px) {
@@ -510,8 +517,20 @@
     margin-left: 0%;
   }
 }
-@media (min-width: 768px) {
+@media (min-width: 414px) {
   .col-md-12 {
     max-width: 68%;
+  }
+  .about-mystory-exp .para {
+    margin-top: -31px;
+    color: black;
+    font-size: 1.8vw;
+    font-family: "Circular Book", sans-serif;
+    line-height: 14px;
+  }
+  .quotes {
+    font-family: "Circular Book", sans-serif;
+    margin-left: 10%;
+    font-size: 8px;
   }
 }

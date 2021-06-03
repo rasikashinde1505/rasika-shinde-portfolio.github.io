@@ -68,8 +68,6 @@
   .site-main .brand-area .experience-area .years-area {
     width: 30rem;
   }
-  
-  
 }
 @media (max-width: 1600px) {
   .site-main {
@@ -121,7 +119,6 @@
     margin-left: 17vw;
     margin-top: 2vw;
   }
-  
 }
 @media (max-width: 1300px) {
   .mystory-img {
@@ -291,7 +288,7 @@
 }
 @media (max-width: 414px) {
   .header_area .main-menu .navbar {
-    margin-left: -8%;
+    margin-left: -13%;
   }
 
   .mystory-img {
@@ -340,10 +337,7 @@
   .site-main .brand-area .experience-area .years-area h2 > span {
     margin-left: 44%;
   }
-  .h2,
-  h2 {
-    margin-left: -30%;
-  }
+
   /*.img-fluid1 {
     max-width: 90%;
     margin-left: 3vw;
@@ -399,6 +393,7 @@
   h2 {
     font-size: 1rem;
     color: rgb(196, 195, 195);
+    margin-left: -44%;
   }
   .video-cr {
     height: 450px;

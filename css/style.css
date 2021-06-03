@@ -467,4 +467,16 @@ footer.footer-area .social a:hover > i {
     width: 95%;
     margin-top: 3%;
   }
+  .site-main .brand-area .experience-area {
+    padding-left: 7rem;
+}
+}
+@media (max-width: 414px) {
+  .site-main .brand-area .experience-area {
+    padding-left: -2rem;
+}
+.h2, h2 {
+  margin-left: -39%;
+}
+
 }
