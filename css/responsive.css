@@ -47,6 +47,9 @@
   .para-h {
     font-size: 30px;
   }
+  .site-main .brand-area .experience-area .years-area {
+    width: 37rem;
+  }
 }
 
 @media (max-width: 1880px) {
@@ -62,6 +65,11 @@
   .para-h {
     font-size: 30px;
   }
+  .site-main .brand-area .experience-area .years-area {
+    width: 30rem;
+  }
+  
+  
 }
 @media (max-width: 1600px) {
   .site-main {
@@ -113,6 +121,7 @@
     margin-left: 17vw;
     margin-top: 2vw;
   }
+  
 }
 @media (max-width: 1300px) {
   .mystory-img {
@@ -425,7 +434,7 @@
   }
   .button.primary-button {
     margin-left: -6%;
-}
+  }
   .site-main .subscribe-us-area .subscribe {
     padding: 3rem 0;
   }

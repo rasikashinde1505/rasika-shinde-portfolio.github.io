@@ -358,6 +358,7 @@
     font-family: "Circular Book", sans-serif;
     line-height: 10px;
   }
+  
 }
 
 @media (max-width: 1600px) {
@@ -507,7 +508,7 @@
     margin-top: 91px;
     color: blanchedalmond;
     margin-left: 0%;
-}
+  }
 }
 @media (min-width: 768px) {
   .col-md-12 {

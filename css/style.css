@@ -434,7 +434,10 @@ footer.footer-area .social a:hover > i {
   height: 600px;
   margin-left: 9vw;
 }
-
+@media (max-width: 2000px) {
+.site-main .brand-area .experience-area .years-area {
+  width: 37rem;
+}}
 @media (max-width: 1050px) {
   .site-main .about-area {
     padding: 2rem 5rem;
