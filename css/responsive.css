@@ -160,7 +160,7 @@
   }
   .col-lg-6 > span {
     padding: 0.2rem 0;
-    color: #000;
+    color: rgb(128, 125, 125);
     font-family: "Circular Book", sans-serif;
     font-size: 1.6vw;
   }
@@ -175,5 +175,261 @@
     width: 70%;
     margin-left: 13vw;
     margin-top: 2vw;
+  }
+}
+@media (max-width: 768px) {
+  .header_area .main-menu .navbar {
+    margin-left: -8%;
+  }
+
+  .mystory-img {
+    margin-left: -78%;
+    margin-top: -3%;
+  }
+  .site-main {
+    width: 76%;
+    margin: 0% 10%;
+  }
+
+  .para-mystory {
+    width: 80%;
+  }
+
+  .site-main .about-area .about-title h2 > span {
+    font-size: 25px;
+    letter-spacing: 10px;
+    line-height: 32px;
+    margin-left: -18%;
+  }
+
+  .site-main .about-area .about-title .paragraph .name > span {
+    font-size: 20px;
+  }
+  .about-mystory-exp {
+    width: 60%;
+    margin-top: 50px;
+  }
+  .overall {
+    margin-left: 10vw;
+  }
+  .site-main .about-area .about-title .paragraph > p {
+    width: 113%;
+    font-size: 1.6vw;
+    line-height: 18px;
+    margin-left: -21%;
+  }
+  .col-lg-6 > span {
+    padding: 0.2rem 0;
+    color: rgb(128, 125, 125);
+    font-family: "Circular Book", sans-serif;
+    font-size: 1.6vw;
+  }
+
+  /*.img-fluid1 {
+    max-width: 90%;
+    margin-left: 3vw;
+  }*/
+  .para-h {
+    font-size: 25px;
+  }
+  .img-fluid2 {
+    width: 70%;
+    margin-left: 13vw;
+    margin-top: 2vw;
+  }
+  .button.primary-button {
+    margin-left: -20%;
+  }
+  .site-main .brand-area .experience-area .years-area {
+    margin-left: 0%;
+  }
+  .video-p {
+    height: 265px;
+    margin-left: 2vw;
+  }
+  .site-main .project-area .button-group button + button {
+    padding-left: 2rem;
+  }
+  .video-cr {
+    height: 800px;
+    margin-left: 7vw;
+  }
+  .heading-of-project {
+    color: #fc3a52;
+    font-size: 17px;
+    font-weight: bold;
+    width: 100%;
+    margin-left: 0%;
+    margin-top: 3%;
+    text-align: justify;
+  }
+  .h2,
+  h2 {
+    margin-left: -20%;
+  }
+  .title-h1 {
+    margin-left: -12%;
+  }
+  .video-c {
+    margin-left: 7vw;
+    height: 600px;
+  }
+  .img-fluid3 {
+    width: 70%;
+    margin-left: 13vw;
+    margin-top: 2vw;
+  }
+}
+@media (max-width: 414px) {
+  .header_area .main-menu .navbar {
+    margin-left: -8%;
+  }
+
+  .mystory-img {
+    margin-left: -82%;
+    margin-top: -24%;
+  }
+  .site-main {
+    width: 76%;
+    margin: 0% 10%;
+  }
+
+  .para-mystory {
+    width: 80%;
+  }
+
+  .site-main .about-area .about-title h2 > span {
+    font-size: 25px;
+    letter-spacing: 10px;
+    line-height: 32px;
+    margin-left: -69%;
+  }
+
+  .site-main .about-area .about-title .paragraph .name > span {
+    font-size: 3vw;
+  }
+  .about-mystory-exp {
+    width: 80%;
+    margin-top: 50px;
+  }
+  .overall {
+    margin-left: -7vw;
+    margin-top: -32%;
+  }
+  .site-main .about-area .about-title .paragraph > p {
+    width: 224%;
+    font-size: 3vw;
+    line-height: 15px;
+    margin-left: -69%;
+  }
+  .col-lg-6 > span {
+    padding: 0.2rem 0;
+    color: rgb(128, 125, 125);
+    font-family: "Circular Book", sans-serif;
+    font-size: 1.6vw;
+  }
+  .site-main .brand-area .experience-area .years-area h2 > span {
+    margin-left: 44%;
+  }
+  .h2,
+  h2 {
+    margin-left: -30%;
+  }
+  /*.img-fluid1 {
+    max-width: 90%;
+    margin-left: 3vw;
+  }*/
+  .para-h {
+    font-size: 25px;
+  }
+  .img-fluid2 {
+    width: 70%;
+    margin-left: 13vw;
+    margin-top: 2vw;
+  }
+
+  .site-main .brand-area .experience-area .years-area {
+    margin-left: -15%;
+  }
+  .site-main .site-banner .site-title h1 {
+    font-size: 3rem;
+    color: rgb(219, 219, 217);
+    line-height: 48%;
+  }
+  .site-main .site-banner .site-title h4 {
+    font-size: 0.6rem;
+    color: #b1afaf;
+    margin-top: -15%;
+  }
+  .img-fluid {
+    height: auto;
+    max-width: 110%;
+    margin-left: -3vw;
+  }
+  .h4,
+  h4 {
+    font-size: 1rem;
+    color: rgb(196, 195, 195);
+  }
+  body {
+    line-height: 0.8;
+    font-size: 0.8rem;
+  }
+  .heading-of-project {
+    color: #fc3a52;
+    font-size: 13px;
+    font-weight: bold;
+    width: 143%;
+    margin-left: -23%;
+    margin-top: 5%;
+    text-align: justify;
+    line-height: 16px;
+    margin-bottom: 32px;
+  }
+  .h2,
+  h2 {
+    font-size: 1rem;
+    color: rgb(196, 195, 195);
+  }
+  .video-cr {
+    height: 450px;
+    margin-left: -5vw;
+  }
+  .title-h1 {
+    margin-left: -27%;
+  }
+  .title-h1 {
+    font: normal bold 30px/ 40px var(--roboto);
+  }
+  .site-main .project-area .button-group button + button {
+    padding-left: 1rem;
+  }
+  .site-main .project-area .button-group button {
+    background: transparent;
+    border: none;
+    font: normal 500 8px/130px var(--roboto);
+    text-transform: uppercase;
+  }
+  .site-main .project-area .grid .our-project > .title h4 {
+    font: normal 700 20px/12px var(--roboto);
+  }
+  .button.secondary-button {
+    margin-left: -40%;
+  }
+  .about-area .site-buttons .btn.button.primary-button {
+    margin-left: -59%;
+  }
+  .brand-area .call-now .btn.button.primary-button {
+    margin-left: -78%;
+    margin-top: -45%;
+  }
+  .button.primary-button {
+    margin-left: -6%;
+}
+  .site-main .subscribe-us-area .subscribe {
+    padding: 3rem 0;
+  }
+  .site-main .brand-area .experience-area span {
+    display: inline-block;
   }
 }

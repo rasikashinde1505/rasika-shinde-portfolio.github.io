@@ -56,7 +56,6 @@
   background-size: 100% 88%;
 }
 
-
 /* Capability */
 
 .a-c-section {
@@ -468,5 +467,50 @@
     display: inline-block;
     font-family: "Circular Book", sans-serif;
     line-height: 50px;
+  }
+}
+
+@media (max-width: 768px) {
+  .about-mystory-exp .para {
+    margin-top: 50px;
+    color: black;
+    font-size: 1.5vw;
+    font-family: "Circular Book", sans-serif;
+    line-height: 22px;
+  }
+  .button.secondary-button {
+    margin-left: -5%;
+  }
+  .heading-h1 {
+    -webkit-text-stroke: 0.6px black;
+    font-size: 75px;
+    display: inline-block;
+    font-family: "Circular Book", sans-serif;
+    line-height: 50px;
+  }
+  .about-mystory .title-text {
+    color: black;
+    font-size: 3vw;
+    font-family: "Circular Book", sans-serif;
+    margin-top: -59%;
+    margin-bottom: -13%;
+  }
+  .about-mystory .para {
+    color: black;
+    font-size: 1.5vw;
+    font-family: "Circular Book", sans-serif;
+    line-height: 22px;
+  }
+  .margin_reveal {
+    margin: 10px 0px;
+    font-size: 111px;
+    margin-top: 91px;
+    color: blanchedalmond;
+    margin-left: 0%;
+}
+}
+@media (min-width: 768px) {
+  .col-md-12 {
+    max-width: 68%;
   }
 }
